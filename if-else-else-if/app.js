@@ -99,9 +99,141 @@
 // }
 
 
-let password = "1234567"
+// let password = "1234567"
 
-console.log(password.length)
-if(password.length < 8){
-    console.log("Password at least 8 characters")
-}
+// console.log(password.length)
+// if(password.length < 8){
+//     console.log("Password at least 8 characters")
+// }
+
+
+
+//  if ==> Condition check kerta hai.. agar true howa to chaly ga
+
+// syntax ==> keyword, round bracket or curly bracket
+// round bracket ==> condition, 
+// curly bracket == >  execute
+
+// let user = "Hasan";
+//         // false
+//     if(user == "hasan"){
+//         console.log("Hello Hasan!")
+//     }else{
+//         console.log("Condition true nhi hai!")
+
+//     }
+
+
+
+// let day = "Tue";
+
+
+// conditional statement
+
+// if(day == "Wed"){
+//     console.log("class hai sabi ajaou!")
+// } else if(day == "Fri"){
+//     console.log("class hai sabi ajaou!")
+    
+// }else if (day == "Mon"){
+//     console.log("class hai sabi ajaou!")
+
+// }else {
+//     console.log("chutti hai khud sai parhlena.")
+// }
+
+
+
+
+// if(day == "Mon"){
+//     console.log("class ajou")
+// }else{
+//     console.log("chutti hai")
+// }
+
+// if(day == "Wed"){
+//     console.log("class ajou")
+// }else{
+//     console.log("chutti hai")
+// }
+
+// if(day == "Fri"){
+//     console.log("class ajou")
+// }else{
+//     console.log("chutti hai")
+// }
+
+
+
+
+
+// Comparison Operator ==>
+
+    // ==      =========>  Equal Operator ==> data type check nhi kerta  hai.
+    // ===     =========>  Strict Equal ==>   data type check kerta hai.
+    // >       =========>  is greater than
+    // <       =========>  is less than
+    // <=      =========>  is less than or equal
+    // >=      =========>  is greater than or equal
+    // !       =========>  Not ==> Logical Operator
+    // !=      =========>  Not Equal  ==> data type check nhi kerta  hai.
+    // !==     =========>  Strict Not Equal  ==> data type check kerta hai.
+
+
+// let cnic = 42101
+//     if(cnic === "42101"){
+//         console.log("true ==>")
+//     }else {
+//         console.log("conditon flase hai..")
+//     }
+
+// let age = 4;
+
+// if(age <= 5){
+//     console.log("Techno programm ka hissa ban jaou")
+// }
+
+
+
+// let age = 18;
+
+// if(age == 18){
+//     console.log("license banadoo")
+// }
+
+
+// let isLoggedInUser = false;
+
+
+// if(isLoggedInUser){
+// console.log("user login hai...")
+// }else {
+//     console.log("else chla ==> user login nhi hai")
+// }
+
+
+// 6 falsy
+// false 
+// 0 
+// null
+// undefined
+// ""
+// NaN
+
+
+// if(!0){
+//     console.log("aap login ni hooooo")
+// }
+
+
+
+// let lotteryNum = "12345"
+
+
+// if(lotteryNum != 1234){
+//     console.log("try again")
+   
+// }else {
+//     console.log("you won")
+// }
+
