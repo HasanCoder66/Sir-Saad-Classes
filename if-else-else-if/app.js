@@ -237,3 +237,103 @@
 //     console.log("you won")
 // }
 
+
+// let hasan = "my name is hasan"
+// let userName = hasan
+// let khizar ;
+// // console.log(userName)
+
+// if(userName == khizar){
+//     console.log(true)
+// }else {
+//     console.log("else chlaa")
+// }
+
+
+
+// ya  ||
+
+// and  both && 
+
+
+// if(2>3 || 3 < 4 && 2>3 ){
+//     console.log("if true hogaya.")
+// }else {
+//     console.log("else chlaa")
+// }
+
+
+// let age = 18;
+// let gender = "male"
+
+
+
+
+// if(age >= 18 && gender == "male"){
+// console.log("nikaah kerlo sunnat hai")
+// }
+
+// function message (m){
+//     console.log(m)
+// }
+
+// let age = 22;
+// let earning = 50000;
+// let apnaGhr = false;
+// let gender = "male"
+
+
+// if(age >= 22 && earning >= 150000 && apnaGhr == true && gender == "male"){
+//     console.log("Rishta Pakka!")
+// }else {
+//     // console.log("Kuch kerlooooo!")
+//     if(age < 22){
+//         message("under age ho")
+//     }
+//     if(earning < 150000){
+//          message("kam kamaty ho")
+//     }
+// }
+
+
+
+// nested if 
+
+// Job Requirement 
+
+// Javascript Developer , Location Karachi , Experience 1
+
+// let city  = "Lahore";
+let city  = "Karachi";
+let lang = "Javascript"
+let exp = 0.5 ;
+
+
+// if(city == "Karachi"){
+// if(lang == "Javascript"){
+// if(exp >= 1 ){
+//     console.log("aap apply kersekty ho!")
+// }else {
+//     console.log("Experience hasil kerlooo thora sa kaam kerloo!")
+// }
+// }else {
+//     console.log("Javascript seekh ke aou")
+// }
+// }else {
+//     console.log("Karachi Ajaou")
+// }
+
+
+
+
+// let age = 18
+// if(age == 18){
+// if(true){
+//     // console.log("good hogiaa")
+//     if(true){
+
+//     }
+// }else {
+//     console.log("condition false arahi hai else chla hai")
+// }
+// }
